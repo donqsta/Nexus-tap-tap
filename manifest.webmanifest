@@ -1,0 +1,84 @@
+{
+  "name": "Nexus Tap Tap",
+  "short_name": "Nexus Tap Tap",
+  "id": "com.example.flappybird",
+  "description": "Tap Tap for Nexus is an arcade game styled like Flappy Bird, where you control Nexus Man, a box-headed astronaut in a white spacesuit, flying through space like Superman. Tap the screen to make Nexus Man navigate through asteroids and space gates. With cute 2D graphics and a twinkling space backdrop, the gameplay is challenging and addictive.",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "d2a633b20e2b11328a000cb195074b30ffc0238df190d24c060749686e852328-ios-icon-20.png.png",
+        "sizes": "20x20"
+      },{
+        "src": "1846deba9c7c1795397ec4dbbb0b5ffac8500df3dfb854bcd21656905664a9a1-ios-icon-29.png.png",
+        "sizes": "29x29"
+      },{
+        "src": "eb8969421cadf0aed5d39f0f4c801045d8f60da1b1d0a99983fd64811fa1fe7b-android-icon-36.png.png",
+        "sizes": "36x36"
+      },{
+        "src": "b1812e73025f5ed99206c304232998c7cd3159e889ce6ef580bbdb33ba45f296-ios-icon-40.png.png",
+        "sizes": "40x40"
+      },{
+        "src": "e9b0b73661e15b71373478f8e0516f29dcaa0dc610e85b209995cedb8accc6ad-android-icon-48.png.png",
+        "sizes": "48x48"
+      },{
+        "src": "79b8ded0b7e03e47dd3bdac2dc317a68b379c3f67d973a46c9b0d2be4f971a35-ios-icon-50.png.png",
+        "sizes": "50x50"
+      },{
+        "src": "937207b737c6f36dd6400226099f58c99c7834ddb09346f3420c0b22599bcf7a-ios-icon-57.png.png",
+        "sizes": "57x57"
+      },{
+        "src": "9d27ed67457e430114743809eaf8877153b37e72e1c2ad148467908ffeabec78-ios-icon-58.png.png",
+        "sizes": "58x58"
+      },{
+        "src": "76933b9dcd5ebe532a21e6e4bf96d05148a9e75204d6775d7c938e58339a28c6-ios-icon-60.png.png",
+        "sizes": "60x60"
+      },{
+        "src": "54cb77da23c7d07c16f2003eae17b1a004c81371e92790eb4ae1e5cdd6a557b5-android-icon-72.png.png",
+        "sizes": "72x72"
+      },{
+        "src": "c6355f0fd79f14ee3b797f12f7cd9f102f1fd4276a99dc1e01052236fab638ed-ios-icon-76.png.png",
+        "sizes": "76x76"
+      },{
+        "src": "4104a2d8cda6807aee3b6d79dbfa320eed16611cb9742828bb5cf1c132210e18-ios-icon-80.png.png",
+        "sizes": "80x80"
+      },{
+        "src": "f427e79104a21ee8c6c75e803a15feba17a6d62d73cb99096d7c396f57085f2c-ios-icon-87.png.png",
+        "sizes": "87x87"
+      },{
+        "src": "69cb3bc3ebd7143a5f332ac7794ea24522720bae6637b4597d1ff830e77fe67f-android-icon-96.png.png",
+        "sizes": "96x96"
+      },{
+        "src": "cfe82716b9c79f792bb02d860a3377205a7bfdfae9518249d24bbe9453724b73-ios-icon-100.png.png",
+        "sizes": "100x100"
+      },{
+        "src": "002e2939a1088b7bfcd03c83a394fb518f8cc20d1b3c0fd24ab3b8ab0ec67fc9-ios-icon-114.png.png",
+        "sizes": "114x114"
+      },{
+        "src": "0901964c4281fc87f4183ed17ee23fc95f2b8b70d3aacda482b72b06be0ec953-ios-icon-120.png.png",
+        "sizes": "120x120"
+      },{
+        "src": "b6da3299c0859d5930ee01db91ce912b286dbe798dfad64b47c2e0e0913cdf07-android-icon-144.png.png",
+        "sizes": "144x144"
+      },{
+        "src": "4a60067fd20996e24571911e29e219f687bcfca10b7d90e86dc0b7a08e5dbcd8-ios-icon-152.png.png",
+        "sizes": "152x152"
+      },{
+        "src": "6d9d5ae68488ada4d4349110e46e80268c7c5c7b685519c0b35cc2ab09e2d98d-ios-icon-167.png.png",
+        "sizes": "167x167"
+      },{
+        "src": "eb0adfa7d9e4c7494a7e4f9a2e7fb8f09348217abbaf6675c0dfd17cf41a4ebb-ios-icon-180.png.png",
+        "sizes": "180x180"
+      },{
+        "src": "7c4d1ec7353d7aea2d2e3d9035de07e6ead9fe1f15e80998531451c459e0eef2-android-icon-192.png.png",
+        "sizes": "192x192"
+      },{
+        "src": "7be77ec8ec11a815babf2b4861c55bf98caaec6855789de6723aa27abf91f244-desktop-icon-512.png.png",
+        "sizes": "512x512"
+      },{
+        "src": "8fb28f006abb3178f83520d6d4deb98bca82b2c49f253bc51207b2a858163bc2-ios-icon-1024.png.png",
+        "sizes": "1024x1024"
+      }]
+}
