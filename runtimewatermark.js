@@ -44,7 +44,7 @@ var gdjs;(function(n){let a;(function(r){class s{constructor(e,t,i){this._linkEl
         }
 
         #watermark {
-          display: none;
+          display: flex;
           flex-direction: row;
           align-items: center;
           transition-property: opacity;
